@@ -1,8 +1,11 @@
 📒 Descrição 
+
 Um-Convite-ao-Mundo-do-Saber
-Livro Despertar para a Filsofia: Um Convite ao Mundo do Saber
+
+Elaboração de e-book do Livro Despertar para a Filsofia: Um Convite ao Mundo do Saber
 
 🤖  Tecnologias e 🧐 Processo de Criação
+
 No Chat GPT usei os seguintes prompts
 
 Prompt: Crie opções de títulos para um livro sobre introdução a filosofia .
